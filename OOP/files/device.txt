@@ -1,0 +1,37 @@
+Apple,iphone,12,2021,548000
+Apple,iphone,12 pro,2021,600000
+Apple,iphone,11 pro,2020,400000
+Apple,iphone,11 pro Max,2020,480000
+Apple,iphone,xs,2019,350000
+Apple,iphone,xs Max,2019,230000
+Apple,ipad,pro,2021,615000
+Apple,ipad,Air 2,2019,280000
+Apple,ipad,8th Gen,2020,409000
+Apple,iWatch,Series 6,2020,200000
+Apple,iWatch,Series 8,2021,230000
+Apple,macbook,pro 16,2021,2000000
+Apple,macbook,Air,2020,542000
+Apple,macbook,Air Touch bar,2019,1000000
+Apple,airpods,xs ,2019,220000
+Apple,airpods,xs Max,2020,230000
+Apple,airpods,xs Max,2021,238000
+Samsung,Galaxy,A20,2019,124500
+Samsung,Galaxy,A50,2020,174000
+Samsung,Galaxy,A71,2021,324500
+Samsung,Galaxy,S21 ,2019,124500
+Samsung,Galaxy,S21 Ultra,2021,250000
+Samsung,Galaxy,Z FOLD2,2021,500000
+Samsung,Galaxy,Note20,2021,300000
+Samsung,Galaxy Book,Ion,2020,457000
+Samsung,Galaxy Book,Flex,2021,553000
+Samsung,Galaxy Book,pro 13,2021,356000
+Samsung,Galaxy Book,pro 360,2021,500000
+Samsung,Galaxy Buds,pro,2019,54000
+Samsung,Galaxy Buds,live,2020,62000
+Samsung,Galaxy Watch,Active,2019,60000
+Samsung,Galaxy Watch,Active 2,2020,70000
+Samsung,Galaxy Watch,Active 2 rose gold,2020,75000
+Samsung,Galaxy Tab,S7,2021,420000
+Samsung,Galaxy Tab,A7,2020,300000
+Samsung,Galaxy Tab,S6 10.5,2020,340000
+
